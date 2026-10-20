@@ -1,2 +1,2 @@
 # prt-gate-lab
-probe line
+probe line 2
